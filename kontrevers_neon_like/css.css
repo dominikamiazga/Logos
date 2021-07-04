@@ -19,7 +19,7 @@ body {
     z-index: 100; /* nachodzenie na siebie, większy z-index jest na wierzchu */
     margin-left: 0; /* margines z lewej (minusowy oznacza, że się cofamy (literki bliżej)) */
     position: relative; /* nie tykać */
-    text-shadow:
+    text-shadow: /* efekt neonowy */
         0 0 7px #c3c3c3,
         0 0 14px #c3c3c3,
         0 0 21px #c3c3c3,
